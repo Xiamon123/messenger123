@@ -4,12 +4,12 @@ import { getStorage } from "firebase/storage";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCt316sbHf8h7aJQnKzc1G8vxWFMvd_VSw",
-  authDomain: "messenger1-c25c0.firebaseapp.com",
-  projectId: "messenger1-c25c0",
-  storageBucket: "messenger1-c25c0.appspot.com",
-  messagingSenderId: "75215275952",
-  appId: "1:75215275952:web:a59921c98baa5314c1f875"
+ apiKey: "AIzaSyCW0jyp7lpV2U05MQOYKh79jrsB2M-8oQ8",
+    authDomain: "messenger123-1cc39.firebaseapp.com",
+    projectId: "messenger123-1cc39",
+    storageBucket: "messenger123-1cc39.appspot.com",
+    messagingSenderId: "646873883008",
+    appId: "1:646873883008:web:46707c1696a9aae0916165"
 };
 // Initialize Firebase
 export const app = initializeApp(firebaseConfig);
